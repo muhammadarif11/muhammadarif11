@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadarif11&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadarif11" /> </p>
 
-- 🔭 I’m currently working on ** a Mental Health Assessment Tool to help physicians diagnose depression**
+- 🔭 I’m currently working on **a Mental Health Assessment Tool to help physicians diagnose depression**
 
 - 🌱 I’m currently learning **population genetics, and data analysis**
 
