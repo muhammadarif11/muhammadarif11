@@ -27,7 +27,6 @@
 <p align="left">
 <a href="https://linkedin.com/in//muhammad-arif-86b3a310a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/muhammad-arif-86b3a310a" height="30" width="40" /></a>
 <a href="https://medium.com/@muhammad.e.k.arif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muhammad.e.k.arif" height="30" width="40" /></a>
-<a href="/https://medium.com/@muhammad.e.k.arif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://medium.com/@muhammad.e.k.arif" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
