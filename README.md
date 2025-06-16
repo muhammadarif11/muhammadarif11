@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python, SQL, R, or anything philosophy related!**
 
-- 📫 How to reach me **arifm11@mcmaster.ca**
+- 📫 How to reach me **ebad.arif@mail.utoronto.ca**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-arif-86b3a310a/](https://www.linkedin.com/in/arifdumonde/)
 
