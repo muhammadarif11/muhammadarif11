@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **a brand new personal website**
 
-- 🌱 I’m currently learning **calculus 2 and sustainability consulting**
+- 🌱 I’m currently learning **Eng Calc 2 and Operational Strategy**
 
 - 📝 I sometimes write articles on [https://medium.com/@muhammad.e.k.arif](https://medium.com/@muhammad.e.k.arif)
 
