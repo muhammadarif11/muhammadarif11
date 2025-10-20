@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Eng Calc 2 and Operational Strategy**
 
-- 📝 I sometimes write articles on [https://medium.com/@muhammad.e.k.arif](https://medium.com/@muhammad.e.k.arif)
-
 - 💬 Ask me about **Python, SQL, R, or anything philosophy related!**
 
 - 📫 How to reach me **ebad.arif@mail.utoronto.ca**
