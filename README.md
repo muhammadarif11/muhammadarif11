@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad</h1>
-<h3 align="center">An information student from the University of Toronto </h3>
+<h3 align="center">An Information student at the University of Toronto </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **a data transformation pipeline *
 
-- 🌱 I’m currently learning **Eng Calc 2 and Operational Strategy**
+- 🌱 I’m currently learning **Differential Equations and Forensic Networking**
 
 - 💬 Ask me about **Python, SQL, R, or anything philosophy related!**
 
